@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.vanir.CMWallpapers;
+package com.vanir.VanirWallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
