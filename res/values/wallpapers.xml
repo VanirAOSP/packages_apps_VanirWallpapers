@@ -29,13 +29,13 @@
         <item>wallpaper_10</item>
         <item>wallpaper_11</item>
         <item>wallpaper_12</item>
-        <item>Heavy_Metal_Android_Development</item>
-        <item>Vanir_5</item>
-        <item>Vanir_6</item>
-        <item>Vanir_7</item>
-        <item>BerserkWall_Vanir</item>
-        <item>VANIR-wallpaper</item>
-        <item>VANIR-wallpaper2</item>
+        <item>heavy_metal_android_development</item>
+        <item>vanir_5</item>
+        <item>vanir_6</item>
+        <item>vanir_7</item>
+        <item>berserkwall_vanir</item>
+        <item>vanir_wallpaper</item>
+        <item>vanir_wallpaper2</item>
     </string-array>
 
     <string-array name="info" translatable="false">
