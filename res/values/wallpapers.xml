@@ -29,6 +29,13 @@
         <item>wallpaper_10</item>
         <item>wallpaper_11</item>
         <item>wallpaper_12</item>
+        <item>Heavy_Metal_Android_Development</item>
+        <item>Vanir_5</item>
+        <item>Vanir_6</item>
+        <item>Vanir_7</item>
+        <item>BerserkWall_Vanir</item>
+        <item>VANIR-wallpaper</item>
+        <item>VANIR-wallpaper2</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -45,5 +52,12 @@
         <item>Wallpaper 10</item>
         <item>Wallpaper 11</item>
         <item>Wallpaper 12</item>
+        <item>Heavy Metal Android Development - Jayson Rodenberg </item>
+        <item>Vanir 5 - Jayson Rodenberg </item>
+        <item>Vanir 6 - Jayson Rodenberg </item>
+        <item>Vanir 7 - Jayson Rodenberg </item>
+        <item>Berserk Wallpaper - Credit Adrian Grimm </item>
+        <item>VANIR Wallpaper -  Credit Nick Flores</item>
+        <item>VANIR- Dragon Wallpaper -  Credit Nick Flores</item>
     </string-array>
 </resources>
