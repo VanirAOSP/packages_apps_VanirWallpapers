@@ -16,38 +16,34 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>mauve</item>
-        <item>winter_sunset</item>
-        <item>barnsley_silhouette</item>
-        <item>dystopia</item>
-        <item>theicestorm</item>
-        <item>tubetangle</item>
-        <item>acidwashedcid</item>
-        <item>blueice_modcircle</item>
-        <item>frostmaple</item>
-        <item>maplebokeh</item>
-        <item>maplesunblaze</item>
-        <item>sunsetgrass</item>
-        <item>light_bursting_out</item>
-        <item>bladesplusdroplets</item>
-        <item>decay</item>
+        <item>wallpaper_00</item>
+        <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
+        <item>wallpaper_03</item>
+        <item>wallpaper_04</item>
+        <item>wallpaper_05</item>
+        <item>wallpaper_06</item>
+        <item>wallpaper_07</item>
+        <item>wallpaper_08</item>
+        <item>wallpaper_09</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Mauve - Matthew Hanley</item>
-        <item>Winter Sunset - Matthew Hanley</item>
-        <item>Barnsley Silhouette - Matthew Hanley</item>
-        <item>Dystopia - Matthew Hanley</item>
-        <item>The Ice Storm - Henry Mason</item>
-        <item>Tangled Up Tubes - Henry Mason</item>
-        <item>Acid-washed Cid - Noelle-Lynn Peregrino</item>
-        <item>Blue Ice w. ModCircle - Henry Mason</item>
-        <item>Frost Maple - Henry Mason</item>
-        <item>Maple Bokeh - Henry Mason</item>
-        <item>Sunblaze Maple - Henry Mason</item>
-        <item>Sunset Grass - Henry Mason</item>
-        <item>Light Bursting Out - Matthew Hanley</item>
-        <item>Blades of Glory - Henry Mason</item>
-        <item>Decay - Henry Mason</item>
+        <item>Wallpaper 0</item>
+        <item>Wallpaper 1</item>
+        <item>Wallpaper 2</item>
+        <item>Wallpaper 3</item>
+        <item>Wallpaper 4</item>
+        <item>Wallpaper 5 - Credit Johnny Fayard </item>
+        <item>Wallpaper 6</item>
+        <item>Wallpaper 7</item>
+        <item>Wallpaper 8</item>
+        <item>Wallpaper 9</item>
+        <item>Wallpaper 10</item>
+        <item>Wallpaper 11</item>
+        <item>Wallpaper 12</item>
     </string-array>
 </resources>
