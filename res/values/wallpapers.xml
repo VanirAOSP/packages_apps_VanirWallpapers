@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_00</item>
         <item>wallpaper_01</item>
         <item>wallpaper_02</item>
         <item>wallpaper_03</item>
@@ -28,30 +27,27 @@
         <item>wallpaper_09</item>
         <item>wallpaper_10</item>
         <item>wallpaper_11</item>
-        <item>wallpaper_12</item>
-        <item>heavy_metal_android_development</item>
-        <item>vanir_5</item>
-        <item>vanir_6</item>
-        <item>vanir_7</item>
-        <item>berserkwall_vanir</item>
-        <item>vanir_wallpaper</item>
-        <item>vanir_wallpaper2</item>
+        <item>wallpaper_13</item>
+        <item>wallpaper_14</item>
+        <item>wallpaper_15</item>
+        <item>wallpaper_16</item>
+        <item>wallpaper_17</item>
+        <item>wallpaper_18</item>
+        <item>wallpaper_19</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Wallpaper 0</item>
-        <item>Wallpaper 1</item>
+        <item>Vanir Wallpaper</item>
         <item>Wallpaper 2</item>
         <item>Wallpaper 3</item>
         <item>Wallpaper 4</item>
-        <item>Wallpaper 5 - Credit Johnny Fayard </item>
-        <item>Wallpaper 6</item>
+        <item>Vanir Wallpaper - Credit Johnny Fayard </item>
+        <item>Phases of the Moon</item>
         <item>Wallpaper 7</item>
         <item>Wallpaper 8</item>
         <item>Wallpaper 9</item>
-        <item>Wallpaper 10</item>
-        <item>Wallpaper 11</item>
-        <item>Wallpaper 12</item>
+        <item>Earth</item>
+        <item>Android</item>
         <item>Heavy Metal Android Development - Jayson Rodenberg </item>
         <item>Vanir 5 - Jayson Rodenberg </item>
         <item>Vanir 6 - Jayson Rodenberg </item>
