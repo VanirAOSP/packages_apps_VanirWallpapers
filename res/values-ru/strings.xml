@@ -15,7 +15,7 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Обои CM</string>
+    <string name="app_name">Обои Vanir</string>
     <string name="set_wallpaper">Установить обои</string>
     <string name="no_wallpaper">Нет обоев</string>
 </resources>

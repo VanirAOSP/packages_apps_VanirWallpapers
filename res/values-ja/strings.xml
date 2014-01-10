@@ -15,7 +15,7 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">CM 壁紙</string>
+    <string name="app_name">Vanir 壁紙</string>
     <string name="set_wallpaper">壁紙に設定</string>
     <string name="no_wallpaper">壁紙なし</string>
 </resources>

@@ -15,7 +15,7 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">"Fondos CM"</string>
+    <string name="app_name">"Fondos Vanir"</string>
     <string name="set_wallpaper">"Escoger fondo de pantalla"</string>
     <string name="no_wallpaper">"Sin fondo de pantalla"</string>
 </resources>
